@@ -4,7 +4,7 @@ description = ["This is a K-drama about the tales between young mages and has 20
 
 quit = "n"
 
-print("My name is 'May Nadi Moe'(student id - 22fmm0829). This is the list of my favorite movies, K-dramas, and cartoons. This program will introduce you the details of why I like each movies, K-dramas, and cartoons.")
+print("My name is 'May'(student id - 0000000). This is the list of my favorite movies, K-dramas, and cartoons. This program will introduce you the details of why I like each movies, K-dramas, and cartoons.")
 
 while quit != "y":
 
